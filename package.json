@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@cucumber/cucumber": "^7.2.1"
+    "@cucumber/cucumber": "9.1.2"
   },
   "dependencies": {
-    "chai": "^4.3.4",
-    "mocha": "^8.3.2",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
     "mocha-cucumber": "^0.0.5"
   }
 }
